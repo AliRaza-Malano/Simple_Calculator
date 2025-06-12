@@ -9,5 +9,6 @@ A simple calculator web application built with **HTML**, **CSS**, and **JavaScri
 - Clear (C) and backspace functions
 - Keyboard input support (optional, if implemented)
 
-## 📁 Project Structure
+## 🚀 Live Preview
 
+👉 [Click to View Live Site](https://aliraza-malano.github.io/Simple_Calculator/)  
